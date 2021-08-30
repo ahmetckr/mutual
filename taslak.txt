@@ -1,0 +1,16 @@
+
+/* MODÜLLER */
+const Discord = require('discord.js')
+/* MODÜLLER */
+
+exports.run = async(client, message, args) => {
+
+};
+
+exports.help = {
+ name: '',
+ description: '',
+ aliases: [],
+ bölüm: '',
+ timeout: 5
+};

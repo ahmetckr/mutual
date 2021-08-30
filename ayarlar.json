@@ -1,0 +1,39 @@
+{
+  "prefix": "m!",
+  "sahip": ["708827616584531998" , "369855905162067988"],
+  "token": "",
+
+  
+  "sunucunaekle": "https://discord.com/api/oauth2/authorize?client_id=823247626702290994&permissions=1408518262&scope=bot",
+  "desteksunucusu": "https://discord.gg/bTBUwf6Xrj",
+  
+  "onay": "<:onay:838130016298598440>",
+  "red": "<:red:838130087526268970>",
+  "onay2": "<:giris:838148235880693832>",
+  "red2": "<:cikis:838148924057452597>",
+  "bekle": "<:bekle:838130170661044314>",
+
+  "mutual": "<:mutual:828181245158621184>",
+  "mutualkırmızı": "<:mutualkirmizi:838149405248716911>",
+  "mutalyeşil": "<:mutualyesil:838149665744355379>",
+  "mutualsarı": "<:mutualsari:838149541764399185>",
+
+  "kullanıcı": "<:kullanici:838130241599701012>",
+  "admin": "<:admin:838130302353145936>",
+  "owner": "<:kurucu:838130541357301840>",
+  "davet": "<:girisbeyaz:838130392740659210>",
+  "müzik": "<:muzik:838130456523309067>",
+  "sistemler": "<:sistemler:838130511058567168>",
+  
+  "evetID": "838130016298598440",
+  "hayırID": "838130087526268970",
+  "mutualID": "828181245158621184",
+  
+  
+  "log": "828170798681554974",
+  
+  "desteksunucusukayıt": "828180142048018472",
+  "desteksunucusukayıtmesaj": "828181494605807656",
+  "desteksunucusuüyerol": "828176987109457921",
+  "desteksunucusuönerikanal": "828165637297274891"
+}
